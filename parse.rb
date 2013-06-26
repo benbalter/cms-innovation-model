@@ -35,6 +35,9 @@ CSV.foreach("data.csv") do |row|
   # add an icon for good measure
   properties["marker-symbol"] = "hospital"
 
+  # highlight state-based initiatives
+  properties["marker-color"] = "#DB7640" if properties["State Based"] == "true"
+
   # parse latlong from string in the form of
   # [Address] (X, Y)
   latlong = /.*\((?<long>.*?), (?<lat>.*?)\)/.match row[3]

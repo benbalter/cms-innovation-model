@@ -30881,7 +30881,8 @@
         "Location 1": "IA\n(42.469390000048634, -93.81649000001335)",
         "State": "IA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -30900,7 +30901,8 @@
         "Location 1": "FL\n(28.932039999846268, -81.9289599999039)",
         "State": "FL",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -30919,7 +30921,8 @@
         "Location 1": "NY\n(42.82699999955048, -75.54396999981549)",
         "State": "NY",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -30938,7 +30941,8 @@
         "Location 1": "CO\n(38.842890000173554, -106.13314000041055)",
         "State": "CO",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -30957,7 +30961,8 @@
         "Location 1": "DC\n(38.89036999987576, -77.03195999965413)",
         "State": "DC",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -30976,7 +30981,8 @@
         "Location 1": "HI\n(21.304850000427336, -157.85774999956269)",
         "State": "HI",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -30995,7 +31001,8 @@
         "Location 1": "NV\n(39.49323999972637, -117.07183999971608)",
         "State": "NV",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31014,7 +31021,8 @@
         "Location 1": "TX\n(31.82724000022597, -99.42676999973554)",
         "State": "TX",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31033,7 +31041,8 @@
         "Location 1": "UT\n(39.36070000030492, -111.58712999994941)",
         "State": "UT",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31052,7 +31061,8 @@
         "Location 1": "MI\n(44.661320000317914, -84.71438999959867)",
         "State": "MI",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31071,7 +31081,8 @@
         "Location 1": "VA\n(37.54268000028196, -78.45789000012326)",
         "State": "VA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31090,7 +31101,8 @@
         "Location 1": "KS\n(38.34774000000118, -98.20077999969709)",
         "State": "KS",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31109,7 +31121,8 @@
         "Location 1": "IL\n(40.485010000411364, -88.99770999971656)",
         "State": "IL",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31128,7 +31141,8 @@
         "Location 1": "MA\n(42.27687000005062, -72.08269000004333)",
         "State": "MA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31147,7 +31161,8 @@
         "Location 1": "MD\n(39.29057999976732, -76.6092600004485)",
         "State": "MD",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31166,7 +31181,8 @@
         "Location 1": "NC\n(35.46624999963797, -79.1593199999179)",
         "State": "NC",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31185,7 +31201,8 @@
         "Location 1": "OH\n(40.06020999969189, -82.40426000019869)",
         "State": "OH",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31204,7 +31221,8 @@
         "Location 1": "OK\n(35.4720099999617, -97.52034999975251)",
         "State": "OK",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31223,7 +31241,8 @@
         "Location 1": "MA\n(42.27687000005062, -72.08269000004333)",
         "State": "MA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31242,7 +31261,8 @@
         "Location 1": "NJ\n(40.13056999960594, -74.2736899996936)",
         "State": "NJ",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31261,7 +31281,8 @@
         "Location 1": "UT\n(39.36070000030492, -111.58712999994941)",
         "State": "UT",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31280,7 +31301,8 @@
         "Location 1": "NY\n(42.82699999955048, -75.54396999981549)",
         "State": "NY",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31299,7 +31321,8 @@
         "Location 1": "TX\n(31.82724000022597, -99.42676999973554)",
         "State": "TX",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31318,7 +31341,8 @@
         "Location 1": "NC\n(35.46624999963797, -79.1593199999179)",
         "State": "NC",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31337,7 +31361,8 @@
         "Location 1": "NE\n(41.6410400000961, -99.36572999973953)",
         "State": "NE",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31356,7 +31381,8 @@
         "Location 1": "NH\n(43.65595000019255, -71.50036000041354)",
         "State": "NH",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31375,7 +31401,8 @@
         "Location 1": "WI\n(44.39319000021851, -89.81636999977553)",
         "State": "WI",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31394,7 +31421,8 @@
         "Location 1": "SC\n(33.99855000018255, -81.0452500001872)",
         "State": "SC",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31413,7 +31441,8 @@
         "Location 1": "CO\n(38.842890000173554, -106.13314000041055)",
         "State": "CO",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31432,7 +31461,8 @@
         "Location 1": "IN\n(39.76690999989677, -86.14996000035359)",
         "State": "IN",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31451,7 +31481,8 @@
         "Location 1": "PR\n(18.220833, -66.590149)",
         "State": "PR",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31470,7 +31501,8 @@
         "Location 1": "CA\n(37.638300000444815, -120.99958999997835)",
         "State": "CA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31489,7 +31521,8 @@
         "Location 1": "DE\n(39.00883000020451, -75.57774000040052)",
         "State": "DE",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31508,7 +31541,8 @@
         "Location 1": "IL\n(40.485010000411364, -88.99770999971656)",
         "State": "IL",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31527,7 +31561,8 @@
         "Location 1": "MI\n(44.661320000317914, -84.71438999959867)",
         "State": "MI",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31546,7 +31581,8 @@
         "Location 1": "IA\n(42.469390000048634, -93.81649000001335)",
         "State": "IA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31565,7 +31601,8 @@
         "Location 1": "MI\n(44.661320000317914, -84.71438999959867)",
         "State": "MI",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31584,7 +31621,8 @@
         "Location 1": "NC\n(35.46624999963797, -79.1593199999179)",
         "State": "NC",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31603,7 +31641,8 @@
         "Location 1": "GA\n(32.83967999993223, -83.62758000031658)",
         "State": "GA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31622,7 +31661,8 @@
         "Location 1": "NJ\n(40.13056999960594, -74.2736899996936)",
         "State": "NJ",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31641,7 +31681,8 @@
         "Location 1": "ID\n(43.682590000228515, -114.36368000023168)",
         "State": "ID",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31660,7 +31701,8 @@
         "Location 1": "ID\n(43.682590000228515, -114.36368000023168)",
         "State": "ID",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31679,7 +31721,8 @@
         "Location 1": "IL\n(40.485010000411364, -88.99770999971656)",
         "State": "IL",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31698,7 +31741,8 @@
         "Location 1": "TX\n(31.82724000022597, -99.42676999973554)",
         "State": "TX",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31717,7 +31761,8 @@
         "Location 1": "GA\n(32.83967999993223, -83.62758000031658)",
         "State": "GA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31736,7 +31781,8 @@
         "Location 1": "AL\n(32.840569999605975, -86.63186000013877)",
         "State": "AL",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31755,7 +31801,8 @@
         "Location 1": "AL\n(32.840569999605975, -86.63186000013877)",
         "State": "AL",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31774,7 +31821,8 @@
         "Location 1": "IN\n(39.76690999989677, -86.14996000035359)",
         "State": "IN",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31793,7 +31841,8 @@
         "Location 1": "DE\n(39.00883000020451, -75.57774000040052)",
         "State": "DE",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31812,7 +31861,8 @@
         "Location 1": "TX\n(31.82724000022597, -99.42676999973554)",
         "State": "TX",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31831,7 +31881,8 @@
         "Location 1": "DC\n(38.89036999987576, -77.03195999965413)",
         "State": "DC",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31850,7 +31901,8 @@
         "Location 1": "NY\n(42.82699999955048, -75.54396999981549)",
         "State": "NY",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31869,7 +31921,8 @@
         "Location 1": "MS\n(32.7455100000866, -89.53803000008429)",
         "State": "MS",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31888,7 +31941,8 @@
         "Location 1": "PA\n(40.79372999993973, -77.86069999960512)",
         "State": "PA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31907,7 +31961,8 @@
         "Location 1": "ND\n(47.475320000018144, -100.11841999998285)",
         "State": "ND",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31926,7 +31981,8 @@
         "Location 1": "CO\n(38.842890000173554, -106.13314000041055)",
         "State": "CO",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31945,7 +32001,8 @@
         "Location 1": "PA\n(40.79372999993973, -77.86069999960512)",
         "State": "PA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31964,7 +32021,8 @@
         "Location 1": "CT\n(41.56265999995918, -72.6498400002157)",
         "State": "CT",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -31983,7 +32041,8 @@
         "Location 1": "NM\n(34.52088000011207, -106.24057999976702)",
         "State": "NM",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32002,7 +32061,8 @@
         "Location 1": "PA\n(40.79372999993973, -77.86069999960512)",
         "State": "PA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32021,7 +32081,8 @@
         "Location 1": "DC\n(38.89036999987576, -77.03195999965413)",
         "State": "DC",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32040,7 +32101,8 @@
         "Location 1": "WA\n(47.522280000022135, -120.47001000026114)",
         "State": "WA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32059,7 +32121,8 @@
         "Location 1": "CA\n(37.638300000444815, -120.99958999997835)",
         "State": "CA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32078,7 +32141,8 @@
         "Location 1": "NC\n(35.46624999963797, -79.1593199999179)",
         "State": "NC",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32097,7 +32161,8 @@
         "Location 1": "CA\n(37.638300000444815, -120.99958999997835)",
         "State": "CA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32116,7 +32181,8 @@
         "Location 1": "CA\n(37.638300000444815, -120.99958999997835)",
         "State": "CA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32135,7 +32201,8 @@
         "Location 1": "LA\n(31.31265999975932, -92.44567999993188)",
         "State": "LA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32154,7 +32221,8 @@
         "Location 1": "CA\n(37.638300000444815, -120.99958999997835)",
         "State": "CA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32173,7 +32241,8 @@
         "Location 1": "PA\n(40.79372999993973, -77.86069999960512)",
         "State": "PA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32192,7 +32261,8 @@
         "Location 1": "KY\n(37.645969999815804, -84.77496999996538)",
         "State": "KY",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32211,7 +32281,8 @@
         "Location 1": "WI\n(44.39319000021851, -89.81636999977553)",
         "State": "WI",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32230,7 +32301,8 @@
         "Location 1": "IA\n(42.469390000048634, -93.81649000001335)",
         "State": "IA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32249,7 +32321,8 @@
         "Location 1": "NJ\n(40.13056999960594, -74.2736899996936)",
         "State": "NJ",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32268,7 +32341,8 @@
         "Location 1": "MD\n(39.29057999976732, -76.6092600004485)",
         "State": "MD",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32287,7 +32361,8 @@
         "Location 1": "IL\n(40.485010000411364, -88.99770999971656)",
         "State": "IL",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32306,7 +32381,8 @@
         "Location 1": "TX\n(31.82724000022597, -99.42676999973554)",
         "State": "TX",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32325,7 +32401,8 @@
         "Location 1": "CA\n(37.638300000444815, -120.99958999997835)",
         "State": "CA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32344,7 +32421,8 @@
         "Location 1": "MA\n(42.27687000005062, -72.08269000004333)",
         "State": "MA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32363,7 +32441,8 @@
         "Location 1": "SC\n(33.99855000018255, -81.0452500001872)",
         "State": "SC",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32382,7 +32461,8 @@
         "Location 1": "AR\n(34.748649999697875, -92.27448999971358)",
         "State": "AR",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32401,7 +32481,8 @@
         "Location 1": "CA\n(37.638300000444815, -120.99958999997835)",
         "State": "CA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32420,7 +32501,8 @@
         "Location 1": "AR\n(34.748649999697875, -92.27448999971358)",
         "State": "AR",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32439,7 +32521,8 @@
         "Location 1": "MI\n(44.661320000317914, -84.71438999959867)",
         "State": "MI",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32458,7 +32541,8 @@
         "Location 1": "OR\n(44.567449999917756, -120.15502999983448)",
         "State": "OR",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32477,7 +32561,8 @@
         "Location 1": "WA\n(47.522280000022135, -120.47001000026114)",
         "State": "WA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32496,7 +32581,8 @@
         "Location 1": "VA\n(37.54268000028196, -78.45789000012326)",
         "State": "VA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32515,7 +32601,8 @@
         "Location 1": "NV\n(39.49323999972637, -117.07183999971608)",
         "State": "NV",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32534,7 +32621,8 @@
         "Location 1": "OH\n(40.06020999969189, -82.40426000019869)",
         "State": "OH",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32553,7 +32641,8 @@
         "Location 1": "MA\n(42.27687000005062, -72.08269000004333)",
         "State": "MA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32572,7 +32661,8 @@
         "Location 1": "CT\n(41.56265999995918, -72.6498400002157)",
         "State": "CT",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32591,7 +32681,8 @@
         "Location 1": "NY\n(42.82699999955048, -75.54396999981549)",
         "State": "NY",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32610,7 +32701,8 @@
         "Location 1": "CO\n(38.842890000173554, -106.13314000041055)",
         "State": "CO",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32629,7 +32721,8 @@
         "Location 1": "HI\n(21.304850000427336, -157.85774999956269)",
         "State": "HI",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32648,7 +32741,8 @@
         "Location 1": "OR\n(44.567449999917756, -120.15502999983448)",
         "State": "OR",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32667,7 +32761,8 @@
         "Location 1": "CA\n(37.638300000444815, -120.99958999997835)",
         "State": "CA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32686,7 +32781,8 @@
         "Location 1": "MA\n(42.27687000005062, -72.08269000004333)",
         "State": "MA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32705,7 +32801,8 @@
         "Location 1": "HI\n(21.304850000427336, -157.85774999956269)",
         "State": "HI",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32724,7 +32821,8 @@
         "Location 1": "CA\n(37.638300000444815, -120.99958999997835)",
         "State": "CA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32743,7 +32841,8 @@
         "Location 1": "AR\n(34.748649999697875, -92.27448999971358)",
         "State": "AR",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32762,7 +32861,8 @@
         "Location 1": "NJ\n(40.13056999960594, -74.2736899996936)",
         "State": "NJ",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32781,7 +32881,8 @@
         "Location 1": "MN\n(46.3556499998478, -94.79419999982997)",
         "State": "MN",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32800,7 +32901,8 @@
         "Location 1": "IL\n(40.485010000411364, -88.99770999971656)",
         "State": "IL",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32819,7 +32921,8 @@
         "Location 1": "CT\n(41.56265999995918, -72.6498400002157)",
         "State": "CT",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32838,7 +32941,8 @@
         "Location 1": "CA\n(37.638300000444815, -120.99958999997835)",
         "State": "CA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32857,7 +32961,8 @@
         "Location 1": "AZ\n(34.86596999961597, -111.76380999973156)",
         "State": "AZ",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32876,7 +32981,8 @@
         "Location 1": "DE\n(39.00883000020451, -75.57774000040052)",
         "State": "DE",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32895,7 +33001,8 @@
         "Location 1": "IN\n(39.76690999989677, -86.14996000035359)",
         "State": "IN",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32914,7 +33021,8 @@
         "Location 1": "TX\n(31.82724000022597, -99.42676999973554)",
         "State": "TX",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32933,7 +33041,8 @@
         "Location 1": "FL\n(28.932039999846268, -81.9289599999039)",
         "State": "FL",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32952,7 +33061,8 @@
         "Location 1": "PA\n(40.79372999993973, -77.86069999960512)",
         "State": "PA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32971,7 +33081,8 @@
         "Location 1": "NE\n(41.6410400000961, -99.36572999973953)",
         "State": "NE",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -32990,7 +33101,8 @@
         "Location 1": "CO\n(38.842890000173554, -106.13314000041055)",
         "State": "CO",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33009,7 +33121,8 @@
         "Location 1": "WV\n(38.66550999958696, -80.71263999973604)",
         "State": "WV",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33028,7 +33141,8 @@
         "Location 1": "MN\n(46.3556499998478, -94.79419999982997)",
         "State": "MN",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33047,7 +33161,8 @@
         "Location 1": "ME\n(45.25423000041434, -68.9850299999344)",
         "State": "ME",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33066,7 +33181,8 @@
         "Location 1": "MA\n(42.27687000005062, -72.08269000004333)",
         "State": "MA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33085,7 +33201,8 @@
         "Location 1": "ID\n(43.682590000228515, -114.36368000023168)",
         "State": "ID",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33104,7 +33221,8 @@
         "Location 1": "MN\n(46.3556499998478, -94.79419999982997)",
         "State": "MN",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33123,7 +33241,8 @@
         "Location 1": "IA\n(42.469390000048634, -93.81649000001335)",
         "State": "IA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33142,7 +33261,8 @@
         "Location 1": "MA\n(42.27687000005062, -72.08269000004333)",
         "State": "MA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33161,7 +33281,8 @@
         "Location 1": "NM\n(34.52088000011207, -106.24057999976702)",
         "State": "NM",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33180,7 +33301,8 @@
         "Location 1": "NH\n(43.65595000019255, -71.50036000041354)",
         "State": "NH",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33199,7 +33321,8 @@
         "Location 1": "MS\n(32.7455100000866, -89.53803000008429)",
         "State": "MS",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33218,7 +33341,8 @@
         "Location 1": "GA\n(32.83967999993223, -83.62758000031658)",
         "State": "GA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33237,7 +33361,8 @@
         "Location 1": "FL\n(28.932039999846268, -81.9289599999039)",
         "State": "FL",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33256,7 +33381,8 @@
         "Location 1": "SD\n(44.353130000049646, -100.37353000040906)",
         "State": "SD",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33275,7 +33401,8 @@
         "Location 1": "MN\n(46.3556499998478, -94.79419999982997)",
         "State": "MN",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33294,7 +33421,8 @@
         "Location 1": "MA\n(42.27687000005062, -72.08269000004333)",
         "State": "MA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33313,7 +33441,8 @@
         "Location 1": "ND\n(47.475320000018144, -100.11841999998285)",
         "State": "ND",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33332,7 +33461,8 @@
         "Location 1": "FL\n(28.932039999846268, -81.9289599999039)",
         "State": "FL",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33351,7 +33481,8 @@
         "Location 1": "AZ\n(34.86596999961597, -111.76380999973156)",
         "State": "AZ",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33370,7 +33501,8 @@
         "Location 1": "CA\n(37.638300000444815, -120.99958999997835)",
         "State": "CA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33389,7 +33521,8 @@
         "Location 1": "NY\n(42.82699999955048, -75.54396999981549)",
         "State": "NY",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33408,7 +33541,8 @@
         "Location 1": "TN\n(35.68094000038087, -85.77449000011325)",
         "State": "TN",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33427,7 +33561,8 @@
         "Location 1": "OH\n(40.06020999969189, -82.40426000019869)",
         "State": "OH",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33446,7 +33581,8 @@
         "Location 1": "CO\n(38.842890000173554, -106.13314000041055)",
         "State": "CO",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33465,7 +33601,8 @@
         "Location 1": "TN\n(35.68094000038087, -85.77449000011325)",
         "State": "TN",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33484,7 +33621,8 @@
         "Location 1": "RI\n(41.70828000002217, -71.5224700001902)",
         "State": "RI",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33503,7 +33641,8 @@
         "Location 1": "CA\n(37.638300000444815, -120.99958999997835)",
         "State": "CA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33522,7 +33661,8 @@
         "Location 1": "MD\n(39.29057999976732, -76.6092600004485)",
         "State": "MD",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33541,7 +33681,8 @@
         "Location 1": "SD\n(44.353130000049646, -100.37353000040906)",
         "State": "SD",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33560,7 +33701,8 @@
         "Location 1": "MO\n(38.63578999960896, -92.5663000000448)",
         "State": "MO",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33579,7 +33721,8 @@
         "Location 1": "CA\n(37.638300000444815, -120.99958999997835)",
         "State": "CA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33598,7 +33741,8 @@
         "Location 1": "NH\n(43.65595000019255, -71.50036000041354)",
         "State": "NH",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33617,7 +33761,8 @@
         "Location 1": "NM\n(34.52088000011207, -106.24057999976702)",
         "State": "NM",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33636,7 +33781,8 @@
         "Location 1": "NY\n(42.82699999955048, -75.54396999981549)",
         "State": "NY",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33655,7 +33801,8 @@
         "Location 1": "NY\n(42.82699999955048, -75.54396999981549)",
         "State": "NY",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33674,7 +33821,8 @@
         "Location 1": "HI\n(21.304850000427336, -157.85774999956269)",
         "State": "HI",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33693,7 +33841,8 @@
         "Location 1": "MT\n(47.06653000015956, -109.42441999998289)",
         "State": "MT",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33712,7 +33861,8 @@
         "Location 1": "WY\n(43.23553999957147, -108.10982999975454)",
         "State": "WY",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33731,7 +33881,8 @@
         "Location 1": "IL\n(40.485010000411364, -88.99770999971656)",
         "State": "IL",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33750,7 +33901,8 @@
         "Location 1": "MD\n(39.29057999976732, -76.6092600004485)",
         "State": "MD",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33769,7 +33921,8 @@
         "Location 1": "MD\n(39.29057999976732, -76.6092600004485)",
         "State": "MD",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33788,7 +33941,8 @@
         "Location 1": "TN\n(35.68094000038087, -85.77449000011325)",
         "State": "TN",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33807,7 +33961,8 @@
         "Location 1": "OH\n(40.06020999969189, -82.40426000019869)",
         "State": "OH",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33826,7 +33981,8 @@
         "Location 1": "OH\n(40.06020999969189, -82.40426000019869)",
         "State": "OH",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33845,7 +34001,8 @@
         "Location 1": "NC\n(35.46624999963797, -79.1593199999179)",
         "State": "NC",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33864,7 +34021,8 @@
         "Location 1": "TN\n(35.68094000038087, -85.77449000011325)",
         "State": "TN",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33883,7 +34041,8 @@
         "Location 1": "MO\n(38.63578999960896, -92.5663000000448)",
         "State": "MO",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33902,7 +34061,8 @@
         "Location 1": "MS\n(32.7455100000866, -89.53803000008429)",
         "State": "MS",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33921,7 +34081,8 @@
         "Location 1": "ID\n(43.682590000228515, -114.36368000023168)",
         "State": "ID",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33940,7 +34101,8 @@
         "Location 1": "GA\n(32.83967999993223, -83.62758000031658)",
         "State": "GA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33959,7 +34121,8 @@
         "Location 1": "AL\n(32.840569999605975, -86.63186000013877)",
         "State": "AL",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33978,7 +34141,8 @@
         "Location 1": "AL\n(32.840569999605975, -86.63186000013877)",
         "State": "AL",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -33997,7 +34161,8 @@
         "Location 1": "WA\n(47.522280000022135, -120.47001000026114)",
         "State": "WA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34016,7 +34181,8 @@
         "Location 1": "NJ\n(40.13056999960594, -74.2736899996936)",
         "State": "NJ",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34035,7 +34201,8 @@
         "Location 1": "WI\n(44.39319000021851, -89.81636999977553)",
         "State": "WI",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34054,7 +34221,8 @@
         "Location 1": "VA\n(37.54268000028196, -78.45789000012326)",
         "State": "VA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34073,7 +34241,8 @@
         "Location 1": "TX\n(31.82724000022597, -99.42676999973554)",
         "State": "TX",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34092,7 +34261,8 @@
         "Location 1": "OR\n(44.567449999917756, -120.15502999983448)",
         "State": "OR",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34111,7 +34281,8 @@
         "Location 1": "OK\n(35.4720099999617, -97.52034999975251)",
         "State": "OK",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34130,7 +34301,8 @@
         "Location 1": "NV\n(39.49323999972637, -117.07183999971608)",
         "State": "NV",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34149,7 +34321,8 @@
         "Location 1": "LA\n(31.31265999975932, -92.44567999993188)",
         "State": "LA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34168,7 +34341,8 @@
         "Location 1": "KS\n(38.34774000000118, -98.20077999969709)",
         "State": "KS",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34187,7 +34361,8 @@
         "Location 1": "IN\n(39.76690999989677, -86.14996000035359)",
         "State": "IN",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34206,7 +34381,8 @@
         "Location 1": "KY\n(37.839333, -84.270018)",
         "State": "KY",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34225,7 +34401,8 @@
         "Location 1": "CA\n(37.638300000444815, -120.99958999997835)",
         "State": "CA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34244,7 +34421,8 @@
         "Location 1": "OR\n(44.567449999917756, -120.15502999983448)",
         "State": "OR",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34263,7 +34441,8 @@
         "Location 1": "NC\n(35.46624999963797, -79.1593199999179)",
         "State": "NC",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34282,7 +34461,8 @@
         "Location 1": "PA\n(40.79372999993973, -77.86069999960512)",
         "State": "PA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34301,7 +34481,8 @@
         "Location 1": "MI\n(44.661320000317914, -84.71438999959867)",
         "State": "MI",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34320,7 +34501,8 @@
         "Location 1": "IL\n(40.485010000411364, -88.99770999971656)",
         "State": "IL",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34339,7 +34521,8 @@
         "Location 1": "IA\n(42.469390000048634, -93.81649000001335)",
         "State": "IA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34358,7 +34541,8 @@
         "Location 1": "OR\n(44.567449999917756, -120.15502999983448)",
         "State": "OR",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34377,7 +34561,8 @@
         "Location 1": "MI\n(44.661320000317914, -84.71438999959867)",
         "State": "MI",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34396,7 +34581,8 @@
         "Location 1": "OK\n(35.4720099999617, -97.52034999975251)",
         "State": "OK",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34415,7 +34601,8 @@
         "Location 1": "FL\n(28.932039999846268, -81.9289599999039)",
         "State": "FL",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34434,7 +34621,8 @@
         "Location 1": "WA\n(47.522280000022135, -120.47001000026114)",
         "State": "WA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34453,7 +34641,8 @@
         "Location 1": "MA\n(42.27687000005062, -72.08269000004333)",
         "State": "MA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34472,7 +34661,8 @@
         "Location 1": "MD\n(39.29057999976732, -76.6092600004485)",
         "State": "MD",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34491,7 +34681,8 @@
         "Location 1": "GA\n(32.83967999993223, -83.62758000031658)",
         "State": "GA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34510,7 +34701,8 @@
         "Location 1": "NY\n(42.82699999955048, -75.54396999981549)",
         "State": "NY",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34529,7 +34721,8 @@
         "Location 1": "NY\n(42.82699999955048, -75.54396999981549)",
         "State": "NY",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34548,7 +34741,8 @@
         "Location 1": "CO\n(38.842890000173554, -106.13314000041055)",
         "State": "CO",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34567,7 +34761,8 @@
         "Location 1": "MN\n(46.3556499998478, -94.79419999982997)",
         "State": "MN",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34586,7 +34781,8 @@
         "Location 1": "MO\n(38.63578999960896, -92.5663000000448)",
         "State": "MO",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34605,7 +34801,8 @@
         "Location 1": "NY\n(42.82699999955048, -75.54396999981549)",
         "State": "NY",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34624,7 +34821,8 @@
         "Location 1": "SC\n(33.99855000018255, -81.0452500001872)",
         "State": "SC",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34643,7 +34841,8 @@
         "Location 1": "WI\n(44.39319000021851, -89.81636999977553)",
         "State": "WI",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34662,7 +34861,8 @@
         "Location 1": "NY\n(42.82699999955048, -75.54396999981549)",
         "State": "NY",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34681,7 +34881,8 @@
         "Location 1": "NM\n(34.52088000011207, -106.24057999976702)",
         "State": "NM",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34700,7 +34901,8 @@
         "Location 1": "FL\n(28.932039999846268, -81.9289599999039)",
         "State": "FL",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34719,7 +34921,8 @@
         "Location 1": "PA\n(40.79372999993973, -77.86069999960512)",
         "State": "PA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34738,7 +34941,8 @@
         "Location 1": "MA\n(42.27687000005062, -72.08269000004333)",
         "State": "MA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34757,7 +34961,8 @@
         "Location 1": "MA\n(42.27687000005062, -72.08269000004333)",
         "State": "MA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34776,7 +34981,8 @@
         "Location 1": "FL\n(28.932039999846268, -81.9289599999039)",
         "State": "FL",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34795,7 +35001,8 @@
         "Location 1": "AK\n(64.84507999974238, -147.72205999986895)",
         "State": "AK",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34814,7 +35021,8 @@
         "Location 1": "PA\n(40.79372999993973, -77.86069999960512)",
         "State": "PA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34833,7 +35041,8 @@
         "Location 1": "KY\n(37.645969999815804, -84.77496999996538)",
         "State": "KY",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34852,7 +35061,8 @@
         "Location 1": "FL\n(28.932039999846268, -81.9289599999039)",
         "State": "FL",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34871,7 +35081,8 @@
         "Location 1": "CA\n(37.638300000444815, -120.99958999997835)",
         "State": "CA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34890,7 +35101,8 @@
         "Location 1": "CT\n(41.56265999995918, -72.6498400002157)",
         "State": "CT",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34909,7 +35121,8 @@
         "Location 1": "CA\n(37.638300000444815, -120.99958999997835)",
         "State": "CA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34928,7 +35141,8 @@
         "Location 1": "MN\n(46.3556499998478, -94.79419999982997)",
         "State": "MN",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34947,7 +35161,8 @@
         "Location 1": "WY\n(43.23553999957147, -108.10982999975454)",
         "State": "WY",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34966,7 +35181,8 @@
         "Location 1": "MN\n(46.3556499998478, -94.79419999982997)",
         "State": "MN",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -34985,7 +35201,8 @@
         "Location 1": "TN\n(35.68094000038087, -85.77449000011325)",
         "State": "TN",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35004,7 +35221,8 @@
         "Location 1": "OR\n(44.567449999917756, -120.15502999983448)",
         "State": "OR",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35023,7 +35241,8 @@
         "Location 1": "MO\n(38.63578999960896, -92.5663000000448)",
         "State": "MO",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35042,7 +35261,8 @@
         "Location 1": "TX\n(31.82724000022597, -99.42676999973554)",
         "State": "TX",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35061,7 +35281,8 @@
         "Location 1": "MI\n(44.661320000317914, -84.71438999959867)",
         "State": "MI",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35080,7 +35301,8 @@
         "Location 1": "TX\n(31.82724000022597, -99.42676999973554)",
         "State": "TX",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35099,7 +35321,8 @@
         "Location 1": "MI\n(44.661320000317914, -84.71438999959867)",
         "State": "MI",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35118,7 +35341,8 @@
         "Location 1": "OH\n(40.06020999969189, -82.40426000019869)",
         "State": "OH",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35137,7 +35361,8 @@
         "Location 1": "TN\n(35.68094000038087, -85.77449000011325)",
         "State": "TN",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35156,7 +35381,8 @@
         "Location 1": "MN\n(46.3556499998478, -94.79419999982997)",
         "State": "MN",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35175,7 +35401,8 @@
         "Location 1": "CO\n(38.842890000173554, -106.13314000041055)",
         "State": "CO",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35194,7 +35421,8 @@
         "Location 1": "WA\n(47.522280000022135, -120.47001000026114)",
         "State": "WA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35213,7 +35441,8 @@
         "Location 1": "MT\n(47.06653000015956, -109.42441999998289)",
         "State": "MT",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35232,7 +35461,8 @@
         "Location 1": "ME\n(45.25423000041434, -68.9850299999344)",
         "State": "ME",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35251,7 +35481,8 @@
         "Location 1": "CA\n(37.638300000444815, -120.99958999997835)",
         "State": "CA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35270,7 +35501,8 @@
         "Location 1": "DE\n(39.00883000020451, -75.57774000040052)",
         "State": "DE",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35289,7 +35521,8 @@
         "Location 1": "MA\n(42.27687000005062, -72.08269000004333)",
         "State": "MA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35308,7 +35541,8 @@
         "Location 1": "PA\n(40.79372999993973, -77.86069999960512)",
         "State": "PA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35327,7 +35561,8 @@
         "Location 1": "TN\n(35.68094000038087, -85.77449000011325)",
         "State": "TN",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35346,7 +35581,8 @@
         "Location 1": "NM\n(34.52088000011207, -106.24057999976702)",
         "State": "NM",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35365,7 +35601,8 @@
         "Location 1": "RI\n(41.70828000002217, -71.5224700001902)",
         "State": "RI",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35384,7 +35621,8 @@
         "Location 1": "VT\n(43.625379999687425, -72.51764000028561)",
         "State": "VT",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35403,7 +35641,8 @@
         "Location 1": "RI\n(41.70828000002217, -71.5224700001902)",
         "State": "RI",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35422,7 +35661,8 @@
         "Location 1": "PA\n(40.79372999993973, -77.86069999960512)",
         "State": "PA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35441,7 +35681,8 @@
         "Location 1": "WA\n(47.522280000022135, -120.47001000026114)",
         "State": "WA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35460,7 +35701,8 @@
         "Location 1": "WI\n(44.39319000021851, -89.81636999977553)",
         "State": "WI",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35479,7 +35721,8 @@
         "Location 1": "NM\n(34.52088000011207, -106.24057999976702)",
         "State": "NM",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35498,7 +35741,8 @@
         "Location 1": "WA\n(47.522280000022135, -120.47001000026114)",
         "State": "WA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35517,7 +35761,8 @@
         "Location 1": "NJ\n(40.13056999960594, -74.2736899996936)",
         "State": "NJ",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35536,7 +35781,8 @@
         "Location 1": "DC\n(38.89036999987576, -77.03195999965413)",
         "State": "DC",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35555,7 +35801,8 @@
         "Location 1": "VA\n(37.54268000028196, -78.45789000012326)",
         "State": "VA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35574,7 +35821,8 @@
         "Location 1": "NY\n(42.82699999955048, -75.54396999981549)",
         "State": "NY",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35593,7 +35841,8 @@
         "Location 1": "NY\n(42.82699999955048, -75.54396999981549)",
         "State": "NY",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35612,7 +35861,8 @@
         "Location 1": "VT\n(43.625379999687425, -72.51764000028561)",
         "State": "VT",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35631,7 +35881,8 @@
         "Location 1": "WI\n(44.39319000021851, -89.81636999977553)",
         "State": "WI",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35650,7 +35901,8 @@
         "Location 1": "MT\n(47.06653000015956, -109.42441999998289)",
         "State": "MT",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35669,7 +35921,8 @@
         "Location 1": "HI\n(21.304850000427336, -157.85774999956269)",
         "State": "HI",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35688,7 +35941,8 @@
         "Location 1": "TX\n(31.82724000022597, -99.42676999973554)",
         "State": "TX",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35707,7 +35961,8 @@
         "Location 1": "NY\n(42.82699999955048, -75.54396999981549)",
         "State": "NY",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35726,7 +35981,8 @@
         "Location 1": "CA\n(37.638300000444815, -120.99958999997835)",
         "State": "CA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35745,7 +36001,8 @@
         "Location 1": "NH\n(43.65595000019255, -71.50036000041354)",
         "State": "NH",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35764,7 +36021,8 @@
         "Location 1": "CT\n(41.56265999995918, -72.6498400002157)",
         "State": "CT",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35783,7 +36041,8 @@
         "Location 1": "NV\n(39.49323999972637, -117.07183999971608)",
         "State": "NV",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -35802,7 +36061,8 @@
         "Location 1": "MN\n(46.3556499998478, -94.79419999982997)",
         "State": "MN",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -37532,7 +37792,8 @@
         "Location 1": "RI\n(41.70828000002217, -71.5224700001902)",
         "State": "RI",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -37551,7 +37812,8 @@
         "Location 1": "MD\n(39.29057999976732, -76.6092600004485)",
         "State": "MD",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -37570,7 +37832,8 @@
         "Location 1": "IL\n(40.485010000411364, -88.99770999971656)",
         "State": "IL",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -37589,7 +37852,8 @@
         "Location 1": "ME\n(45.25423000041434, -68.9850299999344)",
         "State": "ME",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -37608,7 +37872,8 @@
         "Location 1": "MO\n(38.63578999960896, -92.5663000000448)",
         "State": "MO",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -37627,7 +37892,8 @@
         "Location 1": "DC\n(38.89036999987576, -77.03195999965413)",
         "State": "DC",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -37646,7 +37912,8 @@
         "Location 1": "WA\n(47.522280000022135, -120.47001000026114)",
         "State": "WA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -37665,7 +37932,8 @@
         "Location 1": "AL\n(32.840569999605975, -86.63186000013877)",
         "State": "AL",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -37684,7 +37952,8 @@
         "Location 1": "WV\n(38.66550999958696, -80.71263999973604)",
         "State": "WV",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -37703,7 +37972,8 @@
         "Location 1": "CA\n(37.638300000444815, -120.99958999997835)",
         "State": "CA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -37722,7 +37992,8 @@
         "Location 1": "NC\n(35.46624999963797, -79.1593199999179)",
         "State": "NC",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -37741,7 +38012,8 @@
         "Location 1": "CT\n(41.56265999995918, -72.6498400002157)",
         "State": "CT",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -37760,7 +38032,8 @@
         "Location 1": "RI\n(41.70828000002217, -71.5224700001902)",
         "State": "RI",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -37779,7 +38052,8 @@
         "Location 1": "PA\n(40.79372999993973, -77.86069999960512)",
         "State": "PA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -37798,7 +38072,8 @@
         "Location 1": "NC\n(35.46624999963797, -79.1593199999179)",
         "State": "NC",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -37817,7 +38092,8 @@
         "Location 1": "VT\n(43.625379999687425, -72.51764000028561)",
         "State": "VT",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -37836,7 +38112,8 @@
         "Location 1": "MN\n(46.3556499998478, -94.79419999982997)",
         "State": "MN",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -37855,7 +38132,8 @@
         "Location 1": "NY\n(42.82699999955048, -75.54396999981549)",
         "State": "NY",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -37874,7 +38152,8 @@
         "Location 1": "MI\n(44.661320000317914, -84.71438999959867)",
         "State": "MI",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -37893,7 +38172,8 @@
         "Location 1": "ME\n(45.25423000041434, -68.9850299999344)",
         "State": "ME",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -38552,7 +38832,8 @@
         "Location 1": "MI\n(44.661320000317914, -84.71438999959867)",
         "State": "MI",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -38571,7 +38852,8 @@
         "Location 1": "TX\n(31.82724000022597, -99.42676999973554)",
         "State": "TX",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -38590,7 +38872,8 @@
         "Location 1": "IA\n(42.469390000048634, -93.81649000001335)",
         "State": "IA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -38609,7 +38892,8 @@
         "Location 1": "ID\n(43.682590000228515, -114.36368000023168)",
         "State": "ID",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -38628,7 +38912,8 @@
         "Location 1": "TN\n(35.68094000038087, -85.77449000011325)",
         "State": "TN",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -38647,7 +38932,8 @@
         "Location 1": "CT\n(41.56265999995918, -72.6498400002157)",
         "State": "CT",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -38666,7 +38952,8 @@
         "Location 1": "NH\n(43.65595000019255, -71.50036000041354)",
         "State": "NH",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -38685,7 +38972,8 @@
         "Location 1": "PA\n(40.79372999993973, -77.86069999960512)",
         "State": "PA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -38704,7 +38992,8 @@
         "Location 1": "OH\n(40.06020999969189, -82.40426000019869)",
         "State": "OH",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -38723,7 +39012,8 @@
         "Location 1": "UT\n(39.36070000030492, -111.58712999994941)",
         "State": "UT",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -38742,7 +39032,8 @@
         "Location 1": "CA\n(37.638300000444815, -120.99958999997835)",
         "State": "CA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -38761,7 +39052,8 @@
         "Location 1": "IL\n(40.485010000411364, -88.99770999971656)",
         "State": "IL",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -38780,7 +39072,8 @@
         "Location 1": "MD\n(39.29057999976732, -76.6092600004485)",
         "State": "MD",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -38799,7 +39092,8 @@
         "Location 1": "RI\n(41.70828000002217, -71.5224700001902)",
         "State": "RI",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -38818,7 +39112,8 @@
         "Location 1": "DE\n(39.00883000020451, -75.57774000040052)",
         "State": "DE",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -38837,7 +39132,8 @@
         "Location 1": "HI\n(21.304850000427336, -157.85774999956269)",
         "State": "HI",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -38856,7 +39152,8 @@
         "Location 1": "WA\n(47.522280000022135, -120.47001000026114)",
         "State": "WA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -38875,7 +39172,8 @@
         "Location 1": "NY\n(42.82699999955048, -75.54396999981549)",
         "State": "NY",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -38894,7 +39192,8 @@
         "Location 1": "CO\n(38.842890000173554, -106.13314000041055)",
         "State": "CO",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -38913,7 +39212,8 @@
         "Location 1": "OR\n(44.567449999917756, -120.15502999983448)",
         "State": "OR",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -38932,7 +39232,8 @@
         "Location 1": "ME\n(45.25423000041434, -68.9850299999344)",
         "State": "ME",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -38951,7 +39252,8 @@
         "Location 1": "MN\n(46.3556499998478, -94.79419999982997)",
         "State": "MN",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -38970,7 +39272,8 @@
         "Location 1": "VT\n(43.625379999687425, -72.51764000028561)",
         "State": "VT",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -38989,7 +39292,8 @@
         "Location 1": "MA\n(42.27687000005062, -72.08269000004333)",
         "State": "MA",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
@@ -39008,7 +39312,8 @@
         "Location 1": "AR\n(34.748649999697875, -92.27448999971358)",
         "State": "AK",
         "State Based": "true",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "marker-color": "#DB7640"
       }
     },
     {
