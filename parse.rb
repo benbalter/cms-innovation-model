@@ -32,6 +32,9 @@ CSV.foreach("data.csv") do |row|
     properties[ keys[index] ] = field
   end
 
+  # add an icon for good measure
+  properties["marker-symbol"] = "hospital"
+
   # parse latlong from string in the form of
   # [Address] (X, Y)
   latlong = /.*\((?<long>.*?), (?<lat>.*?)\)/.match row[3]
