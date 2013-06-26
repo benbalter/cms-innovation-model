@@ -13,7 +13,7 @@ From [CMS](http://innovation.cms.gov/initiatives/map/index.html):
 ## Data
 
 * [Source](https://data.cms.gov/dataset/CMS-Innovation-Center-Model-Participants/x8pc-u7ta) (Socratta)
-* [CMS Visualization](http://innovation.cms.gov/initiatives/map/index.html]
+* [CMS Visualization](http://innovation.cms.gov/initiatives/map/index.html)
 * [CMS Visualization source](https://github.com/CMSgov/CMS-GoogleMaps-Socrata-Integration)
 
 ## How to convert
