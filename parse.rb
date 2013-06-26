@@ -1,6 +1,12 @@
+# Ruby Script to convert CSV to geoJSON
+# Usage: `ruby parse.rb` in the same folder as `data.csv`
+# Outputs `data.geojson` for use on GitHub (or elsewhere)
+# Source: https://data.cms.gov/dataset/CMS-Innovation-Center-Model-Participants/x8pc-u7ta
+
 require 'csv'
 require 'json'
 
+# init global geojson object
 geojson = {
   "type" => "FeatureCollection",
   "features" => []
