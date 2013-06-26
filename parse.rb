@@ -28,7 +28,7 @@ CSV.foreach("data.csv") do |row|
 
   # parse latlong from string in the form of
   # [Address] (X, Y)
-  latlong = /.*\((?<lat>.*?), (?<long>.*?)\)/.match row[3]
+  latlong = /.*\((?<long>.*?), (?<lat>.*?)\)/.match row[3]
 
   # Couldn't find a latlong, skip to prevent errors
   next if latlong.nil?
